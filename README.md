@@ -1,2 +1,2 @@
-# glassattack
-rangerovercar
+SELAMCANIM ="W0r0V7x7BB4FRfr8d5s848A4SC885s8A58realRI569SDSs9597PTA17A4S7HG85FRasdh8a84HAS2A8SD4sW"
+_G.KeyInput = "string"
